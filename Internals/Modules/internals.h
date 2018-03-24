@@ -1,0 +1,1 @@
+/* Declarations shared between the different modules */
