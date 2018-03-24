@@ -1,5 +1,6 @@
 # ALX
-* rigorous design workflow management methodology
+* rigorous design workflow management methodology;
+* Start with noise, modulate noise, modulate output relentlessly;
 ALX - A.G. (c) 2018. All Rights Reserved. #historiotheque
 
 ## [BACK TO INDEX OF REPOSITORIES](https://github.com/antiface/Index)
