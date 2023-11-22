@@ -16,7 +16,7 @@
 #### An iterated, evolutionary, experimental, serial visual, digital design process:
 * You start the image with a random matrix, with randomness, then you slowly go through a process of modulation in which you select branches that it is permitted to branch off into, slowly step by step selecting different possibilities for the image until you come to something which you think is visually arresting or interesting;
 * Technically speaking, the image starts with pure randomness and slowly becomes less and less random and so structure or organization is created, order if you will;
-* It's a form of digital morphogenesis;
+* It's a form of digital morphogenesis called "The Method of Antisynthesis or Antisynthetic Method";
 
 #### More precisely:
 - Starting with a noise field that is modulated based on basic image processing functions, the artist generates a population of images and artificially selects the best images based on a fitness function;
