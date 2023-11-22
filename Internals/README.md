@@ -2,7 +2,7 @@
 * rigorous design workflow management methodology;
 * Start with noise, modulate noise, modulate relentlessly;
 * A distributed, iterative, serial, ambient, experimental, procedural, generative system;
-* ALX - A.G. (c) 2018. All Rights Reserved. #historiotheque
+* ALX by A.G. (c) 2018. All Rights Reserved. #historiotheque
 
 ### METHODOLOGY:
 * Rigorous design practice;
