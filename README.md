@@ -1,7 +1,7 @@
 # ALX
 * rigorous design workflow management methodology;
 * Start with noise, modulate noise, modulate output relentlessly;
-## ALX - A.G. (c) 2020. All Rights Reserved. #historiotheque
+## ALX - A.G. (c) 2024. All Rights Reserved. #historiotheque
 
 * The Human Inheritance of Methodology;
 * Example: the study of physiology, Claude Bernard, Introduction to the Study of Experimental Medicine (1865);
