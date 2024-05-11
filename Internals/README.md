@@ -12,6 +12,28 @@
 * Workflow methodology working with management of design artefacts;
 * Noise is used as input to most functions;
 
+- - - - - - - - - -
+
+__Methodology Overview:__
+
+The Creative Work-System known as "ALX" is a meticulously crafted methodology designed to integrate artistic expression and research within an interdisciplinary framework. By incorporating three primary modes of expression—Images, Sound, and Words/Text—ALX presents a rigorous approach to creativity, blending design principles with experimental techniques. Let's delve deeper into its components and application:
+
+1. __Rigorous Design Workflow Management Methodology__:
+ALX adopts a structured approach to manage the creative process, ensuring efficiency and consistency from concept to implementation. This methodology emphasizes meticulous planning and organization, essential for navigating the complexities of interdisciplinary art-research practices.
+
+2. __Start with Noise, Modulate Noise, Modulate Relentlessly__:
+Noise serves as the foundational element in ALX's creative process. The artist begins with pure randomness, employing iterative modulation techniques to gradually refine and shape the artistic output. This relentless modulation transforms chaos into order, fostering the emergence of structured and visually compelling compositions.
+
+3. __Distributed, Iterative, Serial, Ambient, Experimental, Procedural, Generative System__:
+ALX operates as a multifaceted system characterized by distributed collaboration, iterative refinement, serial progression, ambient exploration, experimental inquiry, procedural generation, and generative creativity. This comprehensive approach facilitates continuous exploration and evolution across various artistic domains.
+
+__Integration of Research and Artistic Practice:__
+- ALX transcends traditional boundaries between art and research, embodying a symbiotic relationship between creative expression and intellectual inquiry. Through meticulous documentation and archival of generated image series, the artist contributes to the accumulation of knowledge within the field of digital image processing. This interdisciplinary approach fosters innovation and insight, enriching both artistic practice and theoretical discourse.
+
+In essence, ALX represents a paradigmatic shift in the intersection of art and research, offering a dynamic framework for exploration, experimentation, and synthesis across multiple disciplines. By embracing the inherent potential of noise and embracing a rigorous design workflow, ALX exemplifies the transformative power of interdisciplinary creativity.
+
+- - - - - - - - - -
+
 ### EXAMPLE OF METHOD APPLICATION:
 #### An iterated, evolutionary, experimental, serial visual, digital design process:
 * You start the image with a random matrix, with randomness, then you slowly go through a process of modulation in which you select branches that it is permitted to branch off into, slowly step by step selecting different possibilities for the image until you come to something which you think is visually arresting or interesting;
