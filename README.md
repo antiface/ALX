@@ -1,8 +1,8 @@
 # ALX
+*The Creative Work-System of A.G. @ The Art Operation @ The Historiotheque*
+
 * rigorous design workflow management methodology;
 * Start with noise, modulate noise, modulate output relentlessly;
-## ALX - A.G. (c) 2024. All Rights Reserved. #historiotheque
-
 * The Human Inheritance of Methodology;
 * Example: the study of physiology, Claude Bernard, Introduction to the Study of Experimental Medicine (1865);
 * Medical research as example, at most 150 years old, the real experimental medicine, such as physiology;
