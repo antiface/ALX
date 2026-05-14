@@ -2,7 +2,7 @@
 * *Delta-Workspace Theory*;
 * *Signal Science*;
 * *Noise Field Theory*;
-* *Code Genre Theory(;
+* *Code Genre Theory;
 * *Hyperreflexive Design*;
 * *Historiomics, Historionautics, Historiotronics*;
 * *Extreme Philosophy for Extreme Times (XPHIL)*;
